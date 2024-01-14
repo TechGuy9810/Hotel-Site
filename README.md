@@ -54,3 +54,19 @@ JWT= Here will be your Jason web token (Generate a random number to secure your 
 
 **Database :**
 1. MongoDB
+
+# Signin Page
+![image](https://github.com/TechGuy9810/Hotel-Site/assets/140731793/9783c9b0-35ca-4fc4-8a1d-cfafe2492e24)
+# Signup Page
+![image](https://github.com/TechGuy9810/Hotel-Site/assets/140731793/7d11ca04-ecac-4831-bbca-03534d960cfa)
+# Home Page
+![image](https://github.com/TechGuy9810/Hotel-Site/assets/140731793/c0f27def-c58f-4351-844a-62b8fd0fe573)
+# Reservation Page
+![image](https://github.com/TechGuy9810/Hotel-Site/assets/140731793/f1144e43-4d2b-44b5-b017-494dab6a7053)
+# Booking Page
+![image](https://github.com/TechGuy9810/Hotel-Site/assets/140731793/8656475e-306f-4487-a7fa-3dbae61af03b)
+
+
+
+
+
