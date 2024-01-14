@@ -1,7 +1,8 @@
-The Online Hotel Reservation System allows patients to select a desired date through the online platform. This project is developed using the MERN stack technology, incorporating various functionalities to create a professional website. The project features a dynamic home page, admin and user dashboards, user login page with professional handling of all kinds of validations, ability for a user to select a Hotel and view room information, the option to select a doctor and view appointment date, CRUD operations, and additional features. The website boasts a responsive design with a dynamic header and preloader.
+# **Hotel Reservation System**
+## The Online Hotel Reservation System allows patients to select a desired date through the online platform. This project is developed using the MERN stack technology, incorporating various functionalities to create a professional website. The project features a dynamic home page, admin and user dashboards, user login page with professional handling of all kinds of validations, ability for a user to select a Hotel and view room information, the option to select a doctor and view appointment date, CRUD operations, and additional features. The website boasts a responsive design with a dynamic header and preloader.
 
-Setting up this MERN project on your local machine typically involves the following steps:
-The front-end and Express code are in the same directory, with the Express API located at ./api
+# Setting up this MERN project on your local machine typically involves the following steps:
+## The front-end and Express code are in the same directory, with the Express API located at ./api
 Clone or download the project source code to your local machine.
 Install dependencies. This can be done using a package manager such as npm (Node Package Manager) or yarn.
 Run the development server. This can be done using a command line tool such as the terminal, where you can run the command npm start or yarn start.
