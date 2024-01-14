@@ -1,7 +1,8 @@
 # **Hotel Reservation System**
-The Online Hotel Reservation System allows patients to select a desired date through the online platform. This project is developed using the MERN stack technology, incorporating various functionalities to create a professional website. The project features a dynamic home page, admin and user dashboards, a user login page with professional handling of all kinds of validations, the ability for a user to select a Hotel and view room information, the option to select a doctor and view appointment date, CRUD operations, and additional features. The website boasts a responsive design with a dynamic header and preloader.
+The Online Hotel Reservation System allows patients to select a desired date through the online platform. This project is developed using the **MERN stack technology**, incorporating various functionalities to create a professional website. The project features a dynamic home page, admin and user dashboards, a user login page with professional handling of all kinds of validations, the ability for a user to select a Hotel and view room information, the option to select a doctor and view appointment date, **CRUD operations**, and additional features. The website boasts a responsive design with a dynamic header and preloader.
 
 # Setting up this MERN project on your local machine typically involves the following steps:
+
 ### The front-end located at ./learn
 1. Clone or download the project source code to your local machine.
 2. Install dependencies. This can be done using a package manager such as npm (Node Package Manager) or yarn.
@@ -15,15 +16,15 @@ The Online Hotel Reservation System allows patients to select a desired date thr
 4. Start the server by running a command such as node index.js or nodemon index.js in the terminal.
 5. Test the API by sending HTTP requests to the server using tools such as Postman or cURL.
    
-MONGO=here will be your mongodb value      
-JWT= Here will be your jason web token (Generate random number for secured your API).
+MONGO=here will be your MongoDB value      
+JWT= Here will be your Jason web token (Generate a random number to secure your API).
 
 6. Start the server by running a command such as node index.js or nodemon index.js in the terminal.
 7. Test the API by sending HTTP requests to the server using tools such as Postman or cURL.
 8. 
-> Note: Please note that these are general instructions for setting up an Express API, and the specific implementation details may vary depending on your project's requirements. Before starting, make sure to read the project's documentation or readme file to obtain any specific instructions or requirements.
+> Note: These are general instructions for setting up an Express API, and the specific implementation details may vary depending on your project's requirements. Before starting, make sure to read the project's documentation or readme file to obtain any specific instructions or requirements.
 
-### What Features Will You Find Here ?
+### What Features Will You Find Here?
 1. Dynamic home page, serving as the landing page for all users.
 2. User dashboards.
 3. User login page with professional handling of all kinds of validations.
