@@ -1,6 +1,6 @@
 {
-  "homepage":"https://TechGuy9810.github.io/client",
-  "name": "learn",
+  "homepage":"https://TechGuy9810.github.io/Hotel-Site/client",
+  "name": "client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
